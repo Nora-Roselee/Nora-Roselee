@@ -1,4 +1,6 @@
-<img src="./451497-flowers-pixel-art-trees-stars.jpg" />
+<img src="./cover.jpeg" />
+<br>
+<br>
 
 I am an italian girl who has decided to change her career path from Social Media Manager to Front-end developer.<br><br>
 After completing a Master's degree in Language Society Communication at Alma Mater Studiorum in Bologna, I decided to expand my knowledge in communication by studying digital marketing. With many passions, from photography to video editing, I started studying new front-end programming languages to unleash my creativity fully.<br><br>
