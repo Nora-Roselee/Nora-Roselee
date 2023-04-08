@@ -1,3 +1,5 @@
+<div align=center>
+
 <img src="./cover.jpeg" />
 <br>
 <br>
